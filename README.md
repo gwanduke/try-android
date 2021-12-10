@@ -35,14 +35,32 @@ Android Studio 4.1 부터 Kotlin 코드로 ID를 바로 참조하는 기능이 �
 
 ## Projects
 
+## [Build A Simple Android App With Kotlin](https://youtu.be/BBWyXo-3JGQ)
+
 ### [TodoList](./projects/TodoList)
 
-> [Build A Simple Android App With Kotlin](https://youtu.be/BBWyXo-3JGQ)
+<img src="./projects/TodoList/TodoList.jpg" width="300" />
 
-![TodoList 화면](./assets/images/TodoList.jpg)
+## [Kotlin & Android 12 Tutorial | Learn How to Build an Android App 📱 9+ h FREE Development Masterclass](https://youtu.be/HwoxgUPabMk)
+
+> 중간에 Kotlin Basic는 다른 언어와 비슷, 객체지향적인 개념 또는 이전에 살짝 공부한 Kotlin 내용과 거의 일치해서 빠르게 넘김
+
+MainActivity 하나만 사용하는 간단한 앱들이다. 이정도는 쉽게 할 수 있었고 스택 이동이 있는 화면을 더 구현해봐야할 듯하다. 코틀린과 안드로이드 프레임워크 패턴에 익숙해지는데에는 많이 도움되었다.
 
 ### [MyFirstApp](./projects/MyFirstApp)
 
-> [Kotlin & Android 12 Tutorial | Learn How to Build an Android App 📱 9+ h FREE Development Masterclass](https://youtu.be/HwoxgUPabMk)
+버튼 하나 그려본 앱
 
-> 중간에 Kotlin Basic는 다른 언어와 비슷, 객체지향적인 개념 또는 이전에 살짝 공부한 Kotlin 내용과 거의 일치해서 빠르게 넘김
+### [DOBCalc](./projects/DOBCalc)
+
+태어난 시간 분단위 계산
+
+<img src="./projects/DOBCalc/result_1.jpg" width="300" />
+
+<img src="./projects/DOBCalc/result_2.jpg" width="300" />
+
+### [MyCalculator](./projects/MyCalculator)
+
+계산기
+
+<img src="./projects/MyCalculator/MyCalculator.jpg" width="300" />
