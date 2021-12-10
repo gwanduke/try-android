@@ -28,4 +28,10 @@ Android Studio 4.1 부터 Kotlin 코드로 ID를 바로 참조하는 기능이 �
 
 ### [TodoList](./TodoList)
 
+> [Build A Simple Android App With Kotlin](https://youtu.be/BBWyXo-3JGQ)
+
 ![TodoList 화면](./docs/images/TodoList.jpg)
+
+### []()
+
+> [Kotlin & Android 12 Tutorial | Learn How to Build an Android App 📱 9+ h FREE Development Masterclass](https://youtu.be/HwoxgUPabMk)
