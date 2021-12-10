@@ -1,4 +1,7 @@
-# Try Android
+# Try Android & Kotlin
+
+- [Android Projects](./projects)
+- [Kotlin](./kotlin)
 
 ## Gradle
 
@@ -26,12 +29,14 @@ Android Studio 4.1 부터 Kotlin 코드로 ID를 바로 참조하는 기능이 �
 
 ## Projects
 
-### [TodoList](./TodoList)
+### [TodoList](./projects/TodoList)
 
 > [Build A Simple Android App With Kotlin](https://youtu.be/BBWyXo-3JGQ)
 
-![TodoList 화면](./docs/images/TodoList.jpg)
+![TodoList 화면](./assets/images/TodoList.jpg)
 
-### []()
+### [MyFirstApp](./projects/MyFirstApp)
 
 > [Kotlin & Android 12 Tutorial | Learn How to Build an Android App 📱 9+ h FREE Development Masterclass](https://youtu.be/HwoxgUPabMk)
+
+> 중간에 Kotlin Basic는 다른 언어와 비슷, 객체지향적인 개념 또는 이전에 살짝 공부한 Kotlin 내용과 거의 일치해서 빠르게 넘김
