@@ -27,6 +27,12 @@ Android Studio 4.1 부터 Kotlin 코드로 ID를 바로 참조하는 기능이 �
 
 => gradle app plugins에 `id 'kotlin-android-extensions'` 추가
 
+## Basic
+
+### px, dp, sp
+
+![PX/DP/SP 단위](./assets/images/unit-px-dp-sp.png)
+
 ## Projects
 
 ### [TodoList](./projects/TodoList)
